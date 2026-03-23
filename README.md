@@ -39,6 +39,7 @@ Icons are essential for intuitive design and user interfaces. This list covers b
 - [Nucleo](https://nucleoapp.com/) – Premium icons with a companion desktop app for organization.
 - [Iconshock](https://www.iconshock.com/) – High-quality icon sets with multiple styles.
 - [Icons8](https://icons8.com/icons) – Free and premium icons with a robust search and editing UI.
+- [Woopicx](https://woopicx.com/collection/basic3d) – 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
 
 ## Open Source Icon Libraries
 
